@@ -5,6 +5,7 @@ import math
 print("The square root of 16 is", math.sqrt(16))
 
 # in addition to functions, some modules contain useful constants
-print("PI is ", math.sqrts)
+print("PI is ", math.pi)
 
 # try some of the math functions for yourself here:
+print(math.factorial(5))
