@@ -2,7 +2,6 @@
 # Example file for working with classes
 #
 
-
 class myClass():
     def method1(self) :
         print("MyClass method1 " ) 
@@ -21,7 +20,7 @@ class anotherClass(myClass):
 
 
 def main():
-    c = myClass()
+    c = myClass() #Instantiates object instance of myClass class
     c.method1()
     c.method2("This is a string")
     c2 = anotherClass()
