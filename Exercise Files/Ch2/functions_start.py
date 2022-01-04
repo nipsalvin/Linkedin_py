@@ -34,7 +34,7 @@ print (func1)
 
 func2(10, 20)
 print(func2(10, 20))
-print(cube(3)) #asssigns 3 to arg x 
+print(cube(3)) #assigns 3 to arg x 
 print (power(2)) #arg num is assigned 2 without power 'x'
 print (power(2, 3)) #arg num is assigned 2 and x is assigned 3
 print (power (x=3, num=2))
